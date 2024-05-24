@@ -20,7 +20,7 @@ across the years 1959 to 2020. The song lyrics are grouped by year. Each
 year may have at least 100 songs (in some years there are fewer number of 
 song lyrics) and at most slightly greater 100 (indicating ties about the 
 ranks of songs). Lyrics for each song is stored in two file formats: json 
-and txt. You may use any one of the .json format as they are updated with 
+and txt. You may use the .json format files as they are updated with 
 correct lyrics.
 
 **MergedPreprocessedAnnotationData.csv**: This file contains all the 
